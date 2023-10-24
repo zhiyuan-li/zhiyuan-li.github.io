@@ -1,0 +1,184 @@
+# jemdoc:title{Zhiyuan Li}
+=Zhiyuan Li (李志远) 
+
+#{}{img_left}{golden gate bridge.jpg}{image}{340}{255}{}
+
+~~~
+{}{img_left}{portrait.jpg}{image}{203}{296}{https://ai.stanford.edu/~zhiyuanli/portrait.jpg}
+
+
+I am a tenure-track assistant professor in the [https://www.ttic.edu Toyota Technological Institute at Chicago (TTIC)]. My research focuses on machine learning and optimization, especially on deep learning theory. \n 
+
+I received my PhD from the [http://www.cs.princeton.edu Computer Science Department] at Princeton University in 2022, where I was advised by [https://www.cs.princeton.edu/~arora/ Prof. Sanjeev Arora]. I was a postdoctoral fellow in [https://cs.stanford.edu/ Computer Science Department] at Stanford University, working with [https://ai.stanford.edu/~tengyuma/ Tengyu Ma]. 
+I did my undergraduate study at [http://iiis.tsinghua.edu.cn/en/yaoclass/ Yao Class](2013-2017), Tsinghua University. 
+
+
+
+[zhiyuanli@ttic.edu \[Email\]]
+[https://scholar.google.com/citations?user=5vVjpBsAAA \[Google Scholar\]] [https://twitter.com/zhiyuanli_ \[Twitter\]]
+
++++**Prospective PhD Students: I have openings for 2024 Fall. If you are interested in working with me, please submit an application [https://www.ttic.edu/studentapplication/ here]. ** +++
+~~~
+
+
+
+== Publications and Manuscripts
+α-β indicates alphabetical author order, \* indicates equal contribution
+
+
+
+
+
+=== Conference Papers
+
+
+- [https://arxiv.org/abs/2307.11007 Sharpness Minimization Algorithms Do Not Only Minimize Sharpness To Achieve Better Generalization]\n
+Kaiyue Wen, *Zhiyuan Li*, Tengyu Ma\n
+*NeurIPS 2023 (Oral)*
+
+- [https://arxiv.org/abs/2306.13239 The Inductive Bias of Flatness Regularization for Deep Matrix Factorization]\n
+Khashayar Gatmiry, *Zhiyuan Li*, Ching-Yao Chuang, Sashank Reddi, Tengyu Ma, Stefanie Jegelka\n
+*NeurIPS 2023 *
+
+- [https://arxiv.org/abs/2210.14199 Same Pre-training Loss, Better Downstream: Implicit Bias Matters for Language Models]\n
+Hong Liu, Sang Michael Xie, *Zhiyuan Li*, Tengyu Ma\n    
+*ICML  2023 *
+
+- [https://arxiv.org/abs/2301.11500 Understanding Incremental Learning of Gradient Descent: A Fine-grained Analysis of Matrix Sensing]\n
+Jikai Jin, *Zhiyuan Li*, Kaifeng Lyu, Simon S. Du, Jason D. Lee\n
+*ICML  2023 *
+
+
+- [https://arxiv.org/abs/2211.05729 How Does Sharpness-Aware Minimization Minimize Sharpness?]\n
+Kaiyue Wen, Tengyu Ma, *Zhiyuan Li*\n
+*ICLR  2023 *
+
+- [https://arxiv.org/abs/2207.04036 Implicit Bias of Gradient Descent on Reparametrized Models: On Equivalence to Mirror Descent]\n
+*Zhiyuan Li\**, Tianhao Wang\*, Jason D. Lee, Sanjeev Arora\n
+*Neurips 2022 *
+
+- [https://arxiv.org/abs/2206.07085 Understanding the Generalization Benefit of Normalization Layers: Sharpness Reduction]\n
+Kaifeng Lyu, *Zhiyuan Li*, Sanjeev Arora\n
+*Neurips 2022*
+
+- Fast Mixing of Stochastic Gradient Descent with Normalization and Weight Decay\n
+*Zhiyuan Li*, Tianhao Wang, Dingli Yu\n
+*Neurips 2022 *
+
+- [https://arxiv.org/abs/2202.00980 Robust Training of Neural Networks using Scale Invariant Architectures]\n
+*Zhiyuan Li*, Srinadh Bhojanapalli, Manzil Zaheer, Sashank J. Reddi, Sanjiv Kumar\n
+*ICML 2022 (Long Presentation)*
+
+- [https://arxiv.org/abs/2205.09745 Understanding Gradient Descent on Edge of Stability in Deep Learning]\n
+(α-β) Sanjeev Arora, *Zhiyuan Li*, Abhishek Panigrahi\n
+*ICML 2022*
+
+
+- [https://arxiv.org/abs/2110.06914 What Happens after SGD Reaches Zero Loss? --A Mathematical Framework]\n
+*Zhiyuan Li*, Tianhao Wang, Sanjeev Arora\n
+*ICLR 2022 (Spotlight)*
+
+- [https://arxiv.org/abs/2110.13905 Gradient Descent on Two-layer Nets: Margin Maximization and Simplicity Bias]\n
+Kaifeng Lyu\*, *Zhiyuan Li\**, Runzhe Wang\*, Sanjeev Arora\n
+*Neurips 2021*
+
+- [https://arxiv.org/abs/2102.12470 On the Validity of Modeling SGD with Stochastic Differential Equations (SDEs)]\n
+*Zhiyuan Li*, Sadhika Malladi, Sanjeev Arora\n
+*Neurips 2021*
+
+
+- [https://arxiv.org/abs/2103.13883 Risk Bounds and Rademacher Complexity in Batch Reinforcement Learning]\n
+(α-β) Yaqi Duan, Chi Jin, *Zhiyuan Li*\n
+*ICML 2021*
+
+- [https://arxiv.org/abs/2010.08515 Why Are Convolutional Nets More Sample-Efficient than Fully-Connected Nets?] ([https://www.cs.princeton.edu/~zl4/slides/fc_lower_bound_slides.pdf slides])\n
+*Zhiyuan Li*, Yi Zhang, Sanjeev Arora\n
+*ICLR 2021 (Oral)*
+
+- [https://arxiv.org/abs/2012.09839 Towards Resolving the Implicit Bias of Gradient Descent for Matrix Factorization: Greedy Low-Rank Learning]\n
+(α-β) *Zhiyuan Li*, Yuping Luo, Kaifeng Lyu\n
+*ICLR 2021*
+
+- [https://arxiv.org/abs/2010.02916 Reconciling Modern Deep Learning with Traditional Optimization Analyses: The Intrinsic Learning Rate
+] ([https://www.cs.princeton.edu/~zl4/slides/small_lr_slides.pdf slides])\n
+*Zhiyuan Li\**, Kaifeng Lyu\*, Sanjeev Arora\n
+*Neurips 2020*
+
+- [https://arxiv.org/abs/1911.07956 Implicit Regularization and Convergence for Weight Normalization]\n
+Xiaoxia Wu, Edgar Dobriban, Tongzheng Ren, Shanshan Wu, *Zhiyuan Li*, Suriya Gunasekar, Rachel Ward, Qiang Liu\n
+*Neurips 2020* 
+
+- [https://arxiv.org/abs/1910.07454 An Exponential Learning Rate Schedule For Deep Learning] ([https://iclr.cc/virtual/poster_rJg8TeSFDH.html 5 min talk], [https://www.cs.princeton.edu/~zl4/slides/exp_lr_slides.pdf  slides])\n
+*Zhiyuan Li*, Sanjeev Arora\n
+*ICLR 2020 (Spotlight)* 
+
+- [https://arxiv.org/abs/1910.01663 Harnessing the Power of Infinitely Wide Deep Nets on Small-data Tasks] ([https://iclr.cc/virtual/poster_rkl8sJBYvH.html 5 min talk])\n
+(α-β) Sanjeev Arora, Simon S. Du, *Zhiyuan Li*, Ruslan Salakhutdinov, Ruosong Wang, Dingli Yu\n
+*ICLR 2020 (Spotlight)* 
+
+- [https://arxiv.org/abs/1905.11368 Simple and Effective Regularization Methods for Training on Noisily Labeled Data with Generalization Guarantee]  ([https://iclr.cc/virtual/poster_Hke3gyHYwH.html 5 min talk])\n
+(α-β) Wei Hu, *Zhiyuan Li*, Dingli Yu\n
+*ICLR 2020*
+
+- [https://arxiv.org/pdf/1904.11955 On Exact Computation with an Infinitely Wide Neural Net]\n
+(α-β) Sanjeev Arora,  Simon S. Du,  Wei Hu, *Zhiyuan Li*, Ruslan Salakhutdinov, Ruosong Wang\n
+*Neurips 2019 (Spotlight)*
+
+- [https://arxiv.org/abs/1906.06247 Explaining Landscape Connectivity of Low-cost Solutions for Multilayer Nets]\n
+Rohith Kuditipudi, Xiang Wang, Holden Lee, Yi Zhang, *Zhiyuan Li*, Wei Hu, Sanjeev Arora, Rong Ge\n
+*Neurips 2019*
+
+- [http://proceedings.mlr.press/v97/arora19a.html Fine-Grained Analysis of Optimization and Generalization for Overparameterized Two-Layer Neural Networks] ([https://www.cs.princeton.edu/~zl4/slides/fine_grained_slides.pdf slides])\n
+(α-β) Sanjeev Arora, Simon S. Du, Wei Hu, *Zhiyuan Li*, Ruosong Wang\n
+*ICML 2019*
+
+- [https://openreview.net/forum?id=rkxQ-nA9FX Theoretical Analysis of Auto Rate-Tuning by Batch Normalization]\n
+Sanjeev Arora, *Zhiyuan Li*, Kaifeng Lyu\n
+*ICLR 2019* 
+
+- [https://openreview.net/forum?id=BygfghAcYX The role of over-parametrization in generalization of neural networks]\n
+Behnam Neyshabur, *Zhiyuan Li*, Srinadh Bhojanapalli, Yann LeCun, Nathan Srebro\n
+*ICLR 2019* 
+
+- [https://papers.nips.cc/paper/7808-online-improper-learning-with-an-approximation-oracle Online Improper Learning with an Approximation Oracle]\n
+(α-β) Elad Hazan, Wei Hu, Yuanzhi Li, *Zhiyuan Li*\n
+*NeurIPS 2018* 
+
+- [http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p290.pdf Stability of Generalized Two-sided Markets with Transaction Thresholds]\n
+(α-β) *Zhiyuan Li*, Yicheng Liu, Pingzhong Tang, Tingting Xu, Wei Zhan\n
+*AAMAS 2017* (*Best Paper Award Nomination*)
+
+- [https://papers.nips.cc/paper/6462-solving-marginal-map-problems-with-np-oracles-and-parity-constraints.pdf Solving Marginal MAP Problems with NP Oracles and Parity Constraints]\n
+Yexiang Xue, *Zhiyuan Li*, Stefano Ermon, Carla Gomes, Bart Selman\n
+*NIPS 2016*
+
+- [https://papers.nips.cc/paper/6133-learning-in-games-robustness-of-fast-convergence.pdf Learning in Games: Robustness of Fast Convergence]\n
+(α-β) Dylan Foster, *Zhiyuan Li*, Thodoris Lykouris, Karthik Sridharan, Eva Tardos\n
+*NIPS 2016*
+
+
+=== Manuscripts
+
+- [https://arxiv.org/abs/2306.13239 The Inductive Bias of Flatness Regularization for Deep Matrix Factorization]\n
+Khashayar Gatmiry, *Zhiyuan Li*, Ching-Yao Chuang, Sashank Reddi, Tengyu Ma, Stefanie Jegelka
+
+- [https://arxiv.org/abs/2307.15196 The Marginal Value of Momentum for Small Learning Rate SGD]\n
+Runzhe Wang, Sadhika Malladi, Tianhao Wang, Kaifeng Lyu, *Zhiyuan Li*
+
+- [https://arxiv.org/abs/2307.11007 Sharpness Minimization Algorithms Do Not Only Minimize Sharpness To Achieve Better Generalization]\n
+Kaiyue Wen, *Zhiyuan Li*, Tengyu Ma\n
+
+
+- [https://arxiv.org/abs/1911.00809 Enhanced Convolutional Neural Tangent Kernels]\n
+*Zhiyuan Li\**, Ruosong Wang\*, Dingli Yu\*, Simon S. Du, Wei Hu, Ruslan Salakhutdinov, Sanjeev Arora\n
+
+== Services
+- Reviewers for JMLR, Machine Learning, NeurIPS, COLT, ALT, AISTATS, ICML, ICLR
+- Area Chair for NeurIPS 2023 
+
+
+== Awards
+
+- Outstanding Nuerips Reviewer Award, 2021
+- Microsoft Research PhD Fellowship, 2020
+- The William G. Bowen Merit Fellowship, Princeton Univeristy, 2017
