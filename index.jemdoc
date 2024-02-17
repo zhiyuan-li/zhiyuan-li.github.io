@@ -16,8 +16,6 @@ I did my undergraduate study at [http://iiis.tsinghua.edu.cn/en/yaoclass/ Yao Cl
 
 [zhiyuanli@ttic.edu \[Email\]]
 [https://scholar.google.com/citations?user=5vVjpBsAAAAJ \[Google Scholar\]] [https://twitter.com/zhiyuanli_ \[Twitter\]]
-
-+++**Prospective PhD Students: I have openings for 2024 Fall. If you are interested in working with me, please submit an application [https://www.ttic.edu/studentapplication/ here]. ** +++
 ~~~
 
 
@@ -31,6 +29,25 @@ I did my undergraduate study at [http://iiis.tsinghua.edu.cn/en/yaoclass/ Yao Cl
 
 === Conference Papers
 
+- [https://openreview.net/forum?id=3EWTEy9MTM Chain of Thought Empowers Transformers to Solve Inherently Serial Problems]\n
+*Zhiyuan Li*, Hong Liu, Denny Zhou, Tengyu Ma \n
+*ICLR 2024 *
+    
+- [https://arxiv.org/abs/2311.18817 Dichotomy of Early and Late Phase Implicit Biases Can Provably Induce Grokking]\n
+Kaifeng Lyu, Jikai Jin, *Zhiyuan Li*, Simon Shaolei Du, Jason D. Lee, Wei Hu\n
+*ICLR 2024 *
+
+- [https://arxiv.org/abs/2307.15196 The Marginal Value of Momentum for Small Learning Rate SGD]\n
+Runzhe Wang, Sadhika Malladi, Tianhao Wang, Kaifeng Lyu, *Zhiyuan Li*\n
+*ICLR 2024*
+
+- [https://arxiv.org/abs/2305.14342 Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training]\n
+Hong Liu, *Zhiyuan Li*, David Leo Wright Hall, Percy Liang, Tengyu Ma\n
+*ICLR 2024*
+
+- [https://openreview.net/forum?id=qgWJkDiI5p Fast Equilibrium of SGD in Generic Situations]\n
+(α-β)*Zhiyuan Li*, Yi Wang, Zhiren Wang\n
+*ICLR 2024*
 
 - [https://arxiv.org/abs/2307.11007 Sharpness Minimization Algorithms Do Not Only Minimize Sharpness To Achieve Better Generalization]\n
 Kaiyue Wen, *Zhiyuan Li*, Tengyu Ma\n
@@ -158,9 +175,6 @@ Yexiang Xue, *Zhiyuan Li*, Stefano Ermon, Carla Gomes, Bart Selman\n
 
 
 === Manuscripts
-
-- [https://arxiv.org/abs/2307.15196 The Marginal Value of Momentum for Small Learning Rate SGD]\n
-Runzhe Wang, Sadhika Malladi, Tianhao Wang, Kaifeng Lyu, *Zhiyuan Li*
 
 
 - [https://arxiv.org/abs/1911.00809 Enhanced Convolutional Neural Tangent Kernels]\n
