@@ -29,13 +29,26 @@ I did my undergraduate study at [http://iiis.tsinghua.edu.cn/en/yaoclass/ Yao Cl
 
 === Conference Papers
 
+
+- [Why Do You Grok? A Theoretical Analysis on Grokking Modular Addition]\n
+Mohamad Amin Mohamadi, *Zhiyuan Li*, Lei Wu, Danica J. Sutherland \n
+*ICML 2024* (To appear)
+
+- [https://arxiv.org/abs/2404.04454 Implicit Bias of AdamW: $\ell_\infty$-Norm Constrained Optimization]\n
+Shuo Xie, *Zhiyuan Li*\n
+*ICML 2024* (To appear)
+
+- [Simplicity Bias via Global Convergence of Sharpness Minimization]\n
+Khashayar Gatmiry, *Zhiyuan Li*, Sashank J. Reddi, Stefanie Jegelka\n
+*ICML 2024* (To appear)
+
 - [https://openreview.net/forum?id=3EWTEy9MTM Chain of Thought Empowers Transformers to Solve Inherently Serial Problems]\n
 *Zhiyuan Li*, Hong Liu, Denny Zhou, Tengyu Ma \n
-*ICLR 2024 *
+*ICLR 2024*
     
 - [https://arxiv.org/abs/2311.18817 Dichotomy of Early and Late Phase Implicit Biases Can Provably Induce Grokking]\n
 Kaifeng Lyu, Jikai Jin, *Zhiyuan Li*, Simon Shaolei Du, Jason D. Lee, Wei Hu\n
-*ICLR 2024 *
+*ICLR 2024*
 
 - [https://arxiv.org/abs/2307.15196 The Marginal Value of Momentum for Small Learning Rate SGD]\n
 Runzhe Wang, Sadhika Malladi, Tianhao Wang, Kaifeng Lyu, *Zhiyuan Li*\n
