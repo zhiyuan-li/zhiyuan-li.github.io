@@ -4,7 +4,7 @@
 #{}{img_left}{golden gate bridge.jpg}{image}{340}{255}{}
 
 ~~~
-{}{img_left}{portrait.jpg}{image}{203}{296}{https://ai.stanford.edu/~zhiyuanli/portrait.jpg}
+{}{img_left}{portrait_ttic.jpg}{image}{300}{300}{https://ai.stanford.edu/~zhiyuanli/portrait.jpg}
 
 
 I am a tenure-track assistant professor in the [https://www.ttic.edu Toyota Technological Institute at Chicago (TTIC)]. My research focuses on machine learning and optimization, especially on deep learning theory. \n 
