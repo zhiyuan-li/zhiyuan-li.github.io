@@ -1,28 +1,32 @@
 ---
-layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+layout: page
+permalink: /People/
+title: Group
+description: 
+display_title: true
 nav: true
-nav_order: 7
+nav_order: 2
 
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
 ---
+
+#### PhD Students
+
+ - [Shuo Xie](https://shuox.ttic.edu/) (TTIC, 2nd year)
+ - [Mohamad Amin Mohamadi](https://mohamad-amin.github.io/) (TTIC, 2nd year)
+ - [Chenxiao Yang](https://chr26195.github.io/) (TTIC, 1st year)
+ - [Beining Wu](https://stat.uchicago.edu/people/profile/beining-wu/) (Uchicago Stats, 2nd year)
+
+#### Affliated [Research Assistant Professors](https://www.ttic.edu/research-assistant-professor/) (RAP)
+
+ - [Tianhao Wang](https://tianhaowang.ttic.edu/)
+  
+#### Interns and Visting Students
+
+ - Tianlong Huang (Uchicago MS)
+ - Robin Yadav (UBC undergraduate)
+ - [Bob Guo](https://bobeatslollipop.github.io/) (Northwestern CS PhD, 2nd year)
+
+#### Past Interns
+
+ - [Kaiyue Wen](https://whenwen.github.io/) (Tsinghua University -> Stanford CS)
+ - [Xiaoyu Chen](https://xiaoyuchen.me/) (Peking University -> UW CS)
