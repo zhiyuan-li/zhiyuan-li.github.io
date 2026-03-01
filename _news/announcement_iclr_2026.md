@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-05-01 
+date: 2026-01-26
 inline: true
 related_posts: false
 ---
 
-4 papers accepted by ICML 2025!
+2 papers accepted by ICLR 2026!

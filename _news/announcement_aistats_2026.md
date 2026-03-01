@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-05-01 
+date: 2026-01-22
 inline: true
 related_posts: false
 ---
 
-4 papers accepted by ICML 2025!
+1 paper accepted by AISTATS 2026!

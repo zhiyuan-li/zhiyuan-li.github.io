@@ -11,20 +11,20 @@ nav_order: 2
 
 #### PhD Students
 
- - [Shuo Xie](https://shuox.ttic.edu/) (TTIC, 2nd year)
- - [Mohamad Amin Mohamadi](https://mohamad-amin.github.io/) (TTIC, 2nd year)
- - [Chenxiao Yang](https://chr26195.github.io/) (TTIC, 1st year)
- - [Beining Wu](https://stat.uchicago.edu/people/profile/beining-wu/) (Uchicago Stats, 2nd year)
+ - [Shuo Xie](https://shuox.ttic.edu/) (TTIC, 3rd year)
+ - [Mohamad Amin Mohamadi](https://mohamad-amin.github.io/) (TTIC, 3rd year)
+ - [Chenxiao Yang](https://chr26195.github.io/) (TTIC, 2nd year)
+ - [Beining Wu](https://stat.uchicago.edu/people/profile/beining-wu/) (Uchicago Stats, 3rd year)
 
-#### Affliated [Research Assistant Professors](https://www.ttic.edu/research-assistant-professor/) (RAP)
-
- - [Tianhao Wang](https://tianhaowang.ttic.edu/)
-  
-#### Interns and Visting Students
+#### Interns and Visiting Students
 
  - Tianlong Huang (Uchicago MS)
  - Robin Yadav (UBC undergraduate)
- - [Bob Guo](https://bobeatslollipop.github.io/) (Northwestern CS PhD, 2nd year)
+ - [Bob Guo](https://bobeatslollipop.github.io/) (Northwestern CS PhD, 3rd year)
+
+#### Alumni
+
+ - [Tianhao Wang](https://datascience.ucsd.edu/people/tianhao-wang/) (TTIC RAP -> UCSD Assistant Professor)
 
 #### Past Interns
 

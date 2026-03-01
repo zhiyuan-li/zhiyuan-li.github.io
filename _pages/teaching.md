@@ -34,9 +34,10 @@ nav_order: 6
 # Professional Services
 
 - Organization Committee
-  - 1st and 2nd Workshop on Mathematics of Modern Machine Learning, NeurIPS 2023,2024
-  - Midwest Machine Learning Symposium, 2025
-  - Understanding the Mechanisms of Deep Learning and Generative Modeling, IDEAL Institute, 2025
+  - [Latent & Implicit Thinking – Going Beyond CoT Reasoning](https://latent-implicit-thinking.github.io/), ICLR 2026
+  - [1st](https://sites.google.com/view/m3l-2023/home) and [2nd](https://sites.google.com/view/m3l-2024) Workshop on Mathematics of Modern Machine Learning (M3L), NeurIPS 2023,2024
+  - [Midwest Machine Learning Symposium](https://midwest-ml.org/2025/), 2025
+  - [Understanding the Mechanisms of Deep Learning and Generative Modeling](https://www.ideal-institute.org/2025/03/07/understanding-the-mechanisms-of-deep-learning-and-generative-modeling/), IDEAL Institute, 2025
 
 - Conference Area Chair
   - NeurIPS 2023,2024,2025
