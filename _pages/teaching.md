@@ -17,11 +17,11 @@ nav_order: 6
 
 #### TTIC & Uchicago
 
-- Spring 2026: <strong>[TTIC 31070 Convex Optimization](/teaching/convex-optimization-2026/)</strong>
+- Spring 2026: <strong>[TTIC 31070/STAT 31015 Convex Optimization](/teaching/convex-optimization-2026/)</strong>
 
-- Spring 2025: <strong>[TTIC 31120 Statistical and Computational Learning Theory](https://canvas.uchicago.edu/courses/54327)</strong>
+- Spring 2025: <strong>[TTIC 31120 Statistical and Computational Learning Theory](https://canvas.uchicago.edu/courses/64016)</strong>
 
-- Winter 2024: <strong>[STAT 31015 Mathematical Computation IIA: Convex Optimization](https://canvas.uchicago.edu/courses/64016)</strong>
+- Winter 2024: <strong>[TTIC 31070/STAT 31015 Convex Optimization](https://canvas.uchicago.edu/courses/54327)</strong>
 
 #### Past Experience
 - Teaching Assistant, Princeton University

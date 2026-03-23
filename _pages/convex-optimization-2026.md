@@ -82,6 +82,7 @@ Cross-listed as TTIC 31070 / CAAM 31015 / CMSC 35470 / BUSF 36903 / STAT 31015.
   <tr><td>Location</td><td>TTIC 530</td></tr>
   <tr><td>Office Hours</td><td>Zhiyuan Li: Tuesday & Thursday 3:20 – 3:50 PM, TTIC 508. TA office hours TBD.</td></tr>
   <tr><td>TAs</td><td><a href="https://shuox.ttic.edu/">Shuo Xie</a>, <a href="https://math.uchicago.edu/~medvedev/">Marko Medvedev</a>, <a href="https://stat.uchicago.edu/people/profile/beining-wu/">Beining Wu</a></td></tr>
+  <tr><td>Canvas</td><td><a href="https://canvas.uchicago.edu/courses/71971">canvas.uchicago.edu/courses/71971</a></td></tr>
 </table>
 </div>
 
@@ -118,7 +119,7 @@ Linear Algebra, Vector Calculus, and Algorithms at undergraduate level, OR Matri
   <tr><th>#</th><th>Date</th><th>Topic</th><th>Materials</th></tr>
 </thead>
 <tbody>
-  <tr><td class="lec-num">1</td><td class="lec-date">Tue, Mar 24</td><td>Introduction and Convexity</td><td class="materials"></td></tr>
+  <tr><td class="lec-num">1</td><td class="lec-date">Tue, Mar 24</td><td>Introduction and Convexity</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/notes/lecture01.pdf">Notes</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/Lecture-1___-Introduction-and-Convexity/">Verso</a></td></tr>
   <tr><td class="lec-num">2</td><td class="lec-date">Thu, Mar 26</td><td>Separation and Duality</td><td class="materials"></td></tr>
   <tr><td class="lec-num">3</td><td class="lec-date">Tue, Mar 31</td><td>Linear programming</td><td class="materials"></td></tr>
   <tr><td class="lec-num">4</td><td class="lec-date">Thu, Apr 2</td><td>Convex conjugates, and Marginal duality</td><td class="materials"></td></tr>
