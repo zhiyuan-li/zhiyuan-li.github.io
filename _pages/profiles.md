@@ -15,6 +15,7 @@ nav_order: 2
  - [Mohamad Amin Mohamadi](https://mohamad-amin.github.io/) (TTIC, 3rd year)
  - [Chenxiao Yang](https://chr26195.github.io/) (TTIC, 2nd year)
  - [Beining Wu](https://stat.uchicago.edu/people/profile/beining-wu/) (Uchicago Stats, 3rd year)
+ - [Ruize (Richard) Xu](https://datascience.uchicago.edu/people/ruize-richard-xu/) (Uchicago CS, 3rd year)
 
 #### Interns and Visiting Students
 

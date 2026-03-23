@@ -81,7 +81,7 @@ Cross-listed as TTIC 31070 / CAAM 31015 / CMSC 35470 / BUSF 36903 / STAT 31015.
   <tr><td>Schedule</td><td>Tuesday & Thursday, 2:00 – 3:20 PM</td></tr>
   <tr><td>Location</td><td>TTIC 530</td></tr>
   <tr><td>Office Hours</td><td>Zhiyuan Li: Tuesday & Thursday 3:20 – 3:50 PM, TTIC 508. TA office hours TBD.</td></tr>
-  <tr><td>TAs</td><td><a href="https://shuox.ttic.edu/">Shuo Xie</a>, <a href="https://math.uchicago.edu/~medvedev/">Marko Medvedev</a>, <a href="https://stat.uchicago.edu/people/profile/beining-wu/">Beining Wu</a></td></tr>
+  <tr><td>TAs</td><td><a href="https://shuox.ttic.edu/">Shuo Xie</a>, <a href="https://math.uchicago.edu/~medvedev/">Marko Medvedev</a>, <a href="https://stat.uchicago.edu/people/profile/beining-wu/">Beining Wu</a>, <a href="https://datascience.uchicago.edu/people/ruize-richard-xu/">Richard Xu</a></td></tr>
   <tr><td>Canvas</td><td><a href="https://canvas.uchicago.edu/courses/71971">canvas.uchicago.edu/courses/71971</a></td></tr>
 </table>
 </div>
