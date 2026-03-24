@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/convex-optimization-2026/
-title: "TTIC 31070: Convex Optimization"
-description: Spring 2026
+title: "TTIC 31070: Convex Optimization (Spring 2026)"
+description:
 nav: false
 display_title: true
 _styles: |
