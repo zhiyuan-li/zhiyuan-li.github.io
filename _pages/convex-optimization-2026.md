@@ -119,8 +119,8 @@ Linear Algebra, Vector Calculus, and Algorithms at undergraduate level, OR Matri
   <tr><th>#</th><th>Date</th><th>Topic</th><th>Materials</th></tr>
 </thead>
 <tbody>
-  <tr><td class="lec-num">1</td><td class="lec-date">Tue, Mar 24</td><td>Introduction and Convexity</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/notes/lecture01.pdf">Notes</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/Lecture-1___-Introduction-and-Convexity/">Verso</a></td></tr>
-  <tr><td class="lec-num">2</td><td class="lec-date">Thu, Mar 26</td><td>Separation and Duality</td><td class="materials"></td></tr>
+  <tr><td class="lec-num">1</td><td class="lec-date">Tue, Mar 24</td><td>Introduction and Convexity</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/notes/lecture01.pdf">Notes</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/slides/lecture01_slides.pdf">Slides</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/Lecture-1___-Introduction-and-Convexity/">Lean</a></td></tr>
+  <tr><td class="lec-num">2</td><td class="lec-date">Thu, Mar 26</td><td>Separation and Duality</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/notes/lecture02.pdf">Notes</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/slides/lecture02_slides.pdf">Slides</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/Lecture-2___-Separation-and-Duality/">Lean</a></td></tr>
   <tr><td class="lec-num">3</td><td class="lec-date">Tue, Mar 31</td><td>Linear programming</td><td class="materials"></td></tr>
   <tr><td class="lec-num">4</td><td class="lec-date">Thu, Apr 2</td><td>Convex conjugates, and Marginal duality</td><td class="materials"></td></tr>
   <tr><td class="lec-num">5</td><td class="lec-date">Tue, Apr 7</td><td>Lagrange multipliers, and KKT</td><td class="materials"></td></tr>
