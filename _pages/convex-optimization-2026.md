@@ -124,19 +124,19 @@ Linear Algebra, Vector Calculus, and Algorithms at undergraduate level, OR Matri
   <tr><td class="lec-num">3</td><td class="lec-date">Tue, Mar 31</td><td>Linear programming</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/notes/lecture03.pdf">Notes</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/slides/lecture03_slides.pdf">Slides</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/Lecture-3___-Linear-Programming/">Lean</a></td></tr>
   <tr><td class="lec-num">4</td><td class="lec-date">Thu, Apr 2</td><td>Convex conjugates, and Marginal duality</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/notes/lecture04.pdf">Notes</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/slides/lecture04_slides.pdf">Slides</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/Lecture-4___-Convex-Conjugates___-and-Marginal-Duality/">Lean</a></td></tr>
   <tr><td class="lec-num">5</td><td class="lec-date">Tue, Apr 7</td><td>Lagrange multipliers, and KKT</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/notes/lecture05.pdf">Notes</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/slides/lecture05_slides.pdf">Slides</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/Lecture-5___-Lagrange-Multipliers-and-KKT/">Lean</a></td></tr>
-  <tr><td class="lec-num">6</td><td class="lec-date">Thu, Apr 9</td><td>Conic optimization</td><td class="materials"></td></tr>
-  <tr><td class="lec-num">7</td><td class="lec-date">Tue, Apr 14</td><td>Cutting-plane methods</td><td class="materials"></td></tr>
-  <tr><td class="lec-num">8</td><td class="lec-date">Thu, Apr 16</td><td>Steepest descent and descent lemmas</td><td class="materials"></td></tr>
-  <tr><td class="lec-num">9</td><td class="lec-date">Tue, Apr 21</td><td>Mirror descent and Bregman divergences</td><td class="materials"></td></tr>
-  <tr><td class="lec-num">10</td><td class="lec-date">Thu, Apr 23</td><td>Stochastic mirror descent and online-to-stochastic reduction</td><td class="materials"></td></tr>
-  <tr><td class="lec-num">11</td><td class="lec-date">Tue, Apr 28</td><td>Adaptive Optimization and Well-structured preconditioner</td><td class="materials"></td></tr>
-  <tr><td class="lec-num">12</td><td class="lec-date">Thu, Apr 30</td><td>Frank–Wolfe and Non-euclidean descent</td><td class="materials"></td></tr>
-  <tr><td class="lec-num">13</td><td class="lec-date">Tue, May 5</td><td>Oracle Complexity Lower bounds</td><td class="materials"></td></tr>
-  <tr><td class="lec-num">14</td><td class="lec-date">Thu, May 7</td><td>Accelerated Gradient Descent</td><td class="materials"></td></tr>
-  <tr><td class="lec-num">15</td><td class="lec-date">Tue, May 12</td><td>TBD</td><td class="materials"></td></tr>
-  <tr><td class="lec-num">16</td><td class="lec-date">Thu, May 14</td><td>Hessians and Newton's method</td><td class="materials"></td></tr>
-  <tr><td class="lec-num">17</td><td class="lec-date">Tue, May 19</td><td>Self-concordant functions</td><td class="materials"></td></tr>
-  <tr><td class="lec-num">18</td><td class="lec-date">Thu, May 21</td><td>Interior-point methods, and course review</td><td class="materials"></td></tr>
+  <tr><td class="lec-num">6</td><td class="lec-date">Thu, Apr 9</td><td>Cutting-plane methods</td><td class="materials"></td></tr>
+  <tr><td class="lec-num">7</td><td class="lec-date">Tue, Apr 14</td><td>Steepest descent and descent lemmas</td><td class="materials"></td></tr>
+  <tr><td class="lec-num">8</td><td class="lec-date">Thu, Apr 16</td><td>Mirror descent and Bregman divergences</td><td class="materials"></td></tr>
+  <tr><td class="lec-num">9</td><td class="lec-date">Tue, Apr 21</td><td>Stochastic mirror descent and online-to-stochastic reduction</td><td class="materials"></td></tr>
+  <tr><td class="lec-num">10</td><td class="lec-date">Thu, Apr 23</td><td>Adaptive Optimization and Well-structured Preconditioners</td><td class="materials"></td></tr>
+  <tr><td class="lec-num">11</td><td class="lec-date">Tue, Apr 28</td><td>Frank&ndash;Wolfe and Non-Euclidean Descent</td><td class="materials"></td></tr>
+  <tr><td class="lec-num">12</td><td class="lec-date">Thu, Apr 30</td><td>Oracle Complexity Lower Bounds</td><td class="materials"></td></tr>
+  <tr><td class="lec-num">13</td><td class="lec-date">Tue, May 5</td><td>Accelerated Gradient Descent</td><td class="materials"></td></tr>
+  <tr><td class="lec-num">14</td><td class="lec-date">Thu, May 7</td><td>Hessians and Newton's Method</td><td class="materials"></td></tr>
+  <tr><td class="lec-num">15</td><td class="lec-date">Tue, May 12</td><td>Conic Optimization</td><td class="materials"></td></tr>
+  <tr><td class="lec-num">16</td><td class="lec-date">Thu, May 14</td><td>Self-Concordant Functions and Barrier Geometry</td><td class="materials"></td></tr>
+  <tr><td class="lec-num">17</td><td class="lec-date">Tue, May 19</td><td>Central Path and Primal-Dual Interior-Point Methods</td><td class="materials"></td></tr>
+  <tr><td class="lec-num">18</td><td class="lec-date">Thu, May 21</td><td>Review and Synthesis</td><td class="materials"></td></tr>
 </tbody>
 </table>
 
