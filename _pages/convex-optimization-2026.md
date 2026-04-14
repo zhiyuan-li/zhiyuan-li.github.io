@@ -149,7 +149,7 @@ Students are expected to do homeworks, but are not required to submit them. The 
   <tr><th>Assignment</th><th>Posted</th><th>Due</th><th>Materials</th></tr>
 </thead>
 <tbody>
-  <tr><td>HW 1</td><td>Apr 2</td><td>Not required</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/hw/hw1.pdf">PDF</a></td></tr>
+  <tr><td>HW 1</td><td>Apr 2</td><td>Not required</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/hw/hw1.pdf">PDF</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/hw/hw1_solutions.pdf">Solutions</a> <small style="color: var(--global-text-color-light);">(updated Apr 10)</small></td></tr>
 </tbody>
 </table>
 
