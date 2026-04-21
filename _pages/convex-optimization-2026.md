@@ -48,6 +48,9 @@ _styles: |
     font-size: 0.9rem;
     width: 6rem;
   }
+  .schedule-table .materials {
+    white-space: nowrap;
+  }
   .schedule-table .materials a {
     display: inline-block;
     font-size: 0.85rem;
