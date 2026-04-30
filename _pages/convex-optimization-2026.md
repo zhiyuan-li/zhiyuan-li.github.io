@@ -133,7 +133,7 @@ Linear Algebra, Vector Calculus, and Algorithms at undergraduate level, OR Matri
   <tr><td class="lec-num">9</td><td class="lec-date">Tue, Apr 21</td><td>Online Convex Optimization, Subgradient Mirror Descent, and Stochastic Reduction</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/notes/lecture09.pdf">Notes</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/slides/lecture09_slides.pdf">Slides</a></td></tr>
   <tr><td class="lec-num">10</td><td class="lec-date">Thu, Apr 23</td><td>Adaptive Optimization and Well-structured Preconditioners</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/notes/lecture10.pdf">Notes</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/slides/lecture10_slides.pdf">Slides</a></td></tr>
   <tr><td class="lec-num">11</td><td class="lec-date">Tue, Apr 28</td><td>Frank&ndash;Wolfe and Non-Euclidean Descent</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/notes/lecture11.pdf">Notes</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/slides/lecture11_slides.pdf">Slides</a></td></tr>
-  <tr><td class="lec-num">12</td><td class="lec-date">Thu, Apr 30</td><td>Oracle Complexity Lower Bounds</td><td class="materials"></td></tr>
+  <tr><td class="lec-num">12</td><td class="lec-date">Thu, Apr 30</td><td>Oracle Complexity Lower Bounds</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/notes/lecture12.pdf">Notes</a></td></tr>
   <tr><td class="lec-num">13</td><td class="lec-date">Tue, May 5</td><td>Accelerated Gradient Descent</td><td class="materials"></td></tr>
   <tr><td class="lec-num">14</td><td class="lec-date">Thu, May 7</td><td>Hessians and Newton's Method</td><td class="materials"></td></tr>
   <tr><td class="lec-num">15</td><td class="lec-date">Tue, May 12</td><td>Conic Optimization</td><td class="materials"></td></tr>
@@ -154,6 +154,7 @@ Students are expected to do homeworks, but are not required to submit them. The 
 <tbody>
   <tr><td>HW 1</td><td>Apr 2</td><td>Not required</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/hw/hw1.pdf">PDF</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/hw/hw1_solutions.pdf">Solutions</a> <small style="color: var(--global-text-color-light);">(updated Apr 10)</small></td></tr>
   <tr><td>HW 2</td><td>Apr 14</td><td>Not required</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/hw/hw2.pdf">PDF</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/hw/hw2_solutions.pdf">Solutions</a> <small style="color: var(--global-text-color-light);">(updated Apr 29)</small></td></tr>
+  <tr><td>HW 3</td><td>Apr 30</td><td>Not required</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/hw/hw3.pdf">PDF</a> <small style="color: var(--global-text-color-light);">(updated Apr 30)</small></td></tr>
 </tbody>
 </table>
 
