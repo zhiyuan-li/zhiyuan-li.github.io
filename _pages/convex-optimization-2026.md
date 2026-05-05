@@ -135,10 +135,10 @@ Linear Algebra, Vector Calculus, and Algorithms at undergraduate level, OR Matri
   <tr><td class="lec-num">11</td><td class="lec-date">Tue, Apr 28</td><td>Frank&ndash;Wolfe and Non-Euclidean Descent</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/notes/lecture11.pdf">Notes</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/slides/lecture11_slides.pdf">Slides</a></td></tr>
   <tr><td class="lec-num">12</td><td class="lec-date">Thu, Apr 30</td><td>Oracle Complexity Lower Bounds</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/notes/lecture12.pdf">Notes</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/slides/lecture12_slides.pdf">Slides</a></td></tr>
   <tr><td class="lec-num">13</td><td class="lec-date">Tue, May 5</td><td>Linear Coupling and Acceleration</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/notes/lecture13.pdf">Notes</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/slides/lecture13_slides.pdf">Slides</a></td></tr>
-  <tr><td class="lec-num">14</td><td class="lec-date">Thu, May 7</td><td>Hessians and Newton's Method</td><td class="materials"></td></tr>
-  <tr><td class="lec-num">15</td><td class="lec-date">Tue, May 12</td><td>Conic Optimization</td><td class="materials"></td></tr>
-  <tr><td class="lec-num">16</td><td class="lec-date">Thu, May 14</td><td>Self-Concordant Functions and Barrier Geometry</td><td class="materials"></td></tr>
-  <tr><td class="lec-num">17</td><td class="lec-date">Tue, May 19</td><td>Central Path and Primal-Dual Interior-Point Methods</td><td class="materials"></td></tr>
+  <tr><td class="lec-num">14</td><td class="lec-date">Thu, May 7</td><td>Newton and Hessian Geometry</td><td class="materials"></td></tr>
+  <tr><td class="lec-num">15</td><td class="lec-date">Tue, May 12</td><td>Conic Optimization and Primal&ndash;Dual KKT</td><td class="materials"></td></tr>
+  <tr><td class="lec-num">16</td><td class="lec-date">Thu, May 14</td><td>Self-Concordant Barriers and Newton Stability</td><td class="materials"></td></tr>
+  <tr><td class="lec-num">17</td><td class="lec-date">Tue, May 19</td><td>Central Path and Interior-Point Methods</td><td class="materials"></td></tr>
   <tr><td class="lec-num">18</td><td class="lec-date">Thu, May 21</td><td>Review and Synthesis</td><td class="materials"></td></tr>
 </tbody>
 </table>
