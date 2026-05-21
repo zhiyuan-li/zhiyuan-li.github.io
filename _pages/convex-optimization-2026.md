@@ -139,7 +139,7 @@ Linear Algebra, Vector Calculus, and Algorithms at undergraduate level, OR Matri
   <tr><td class="lec-num">15</td><td class="lec-date">Tue, May 12</td><td>Self-Concordant Analysis of Newton's Method</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/notes/lecture15.pdf">Notes</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/slides/lecture15_slides.pdf">Slides</a></td></tr>
   <tr><td class="lec-num">16</td><td class="lec-date">Thu, May 14</td><td>Self-Concordant Barriers and Primal Interior-Point Methods</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/notes/lecture16.pdf">Notes</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/slides/lecture16_slides.pdf">Slides</a></td></tr>
   <tr><td class="lec-num">17</td><td class="lec-date">Tue, May 19</td><td>Primal&ndash;Dual Interior-Point Methods for Conic Optimization</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/notes/lecture17.pdf">Notes</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/slides/lecture17_slides.pdf">Slides</a></td></tr>
-  <tr><td class="lec-num">18</td><td class="lec-date">Thu, May 21</td><td>Review and Synthesis</td><td class="materials"></td></tr>
+  <tr><td class="lec-num">18</td><td class="lec-date">Thu, May 21</td><td>Course Summary</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/slides/lecture18_slides.pdf">Slides</a></td></tr>
 </tbody>
 </table>
 
