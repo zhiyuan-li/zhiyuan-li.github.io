@@ -155,7 +155,7 @@ Students are expected to do homeworks, but are not required to submit them. The 
   <tr><td>HW 1</td><td>Apr 2</td><td>Not required</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/hw/hw1.pdf">PDF</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/hw/hw1_solutions.pdf">Solutions</a> <small style="color: var(--global-text-color-light);">(updated Apr 10)</small></td></tr>
   <tr><td>HW 2</td><td>Apr 14</td><td>Not required</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/hw/hw2.pdf">PDF</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/hw/hw2_solutions.pdf">Solutions</a> <small style="color: var(--global-text-color-light);">(updated Apr 29)</small></td></tr>
   <tr><td>HW 3</td><td>Apr 30</td><td>Not required</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/hw/hw3.pdf">PDF</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/hw/hw3_solutions.pdf">Solutions</a> <small style="color: var(--global-text-color-light);">(updated May 12)</small></td></tr>
-  <tr><td>HW 4</td><td>May 19</td><td>Not required</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/hw/hw4.pdf">PDF</a> <small style="color: var(--global-text-color-light);">(updated May 19)</small></td></tr>
+  <tr><td>HW 4</td><td>May 19</td><td>Not required</td><td class="materials"><a href="https://zhiyuanli.ttic.edu/convex-optimization-site/hw/hw4.pdf">PDF</a> <a href="https://zhiyuanli.ttic.edu/convex-optimization-site/hw/hw4_solutions.pdf">Solutions</a> <small style="color: var(--global-text-color-light);">(updated May 23)</small></td></tr>
 </tbody>
 </table>
 
