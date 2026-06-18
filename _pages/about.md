@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a tenure-track assistant professor at [Toyota Technological Institute at Chicago (TTIC)](https://www.ttic.edu/) and an affiliated faculty of [Computer Science](https://cs.uchicago.edu/) at the University of Chicago. I am also a visiting faculty at Google Research. 
+I am a tenure-track assistant professor at [Toyota Technological Institute at Chicago (TTIC)](https://www.ttic.edu/) and an affiliated faculty of [Computer Science](https://cs.uchicago.edu/) at the University of Chicago. I was also a visiting faculty member at Google Research until April 2026. 
 Before joining TTIC, I was a postdoctoral fellow in [Computer Science](https://www.cs.stanford.edu/) Department at Stanford University, working with [Tengyu Ma](https://ai.stanford.edu/~tengyuma/). I received my PhD from the [Computer Science Department](https://www.ttic.edu/) at Princeton University in 2022, where I was advised by [Sanjeev Arora](https://www.cs.princeton.edu/~arora/). I did my undergraduate study at [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), Tsinghua University.
 
 I am broadly interested in machine learning theory, including optimization in deep learning, reasoning capabilities of Large Language Models (LLMs), modern paradigm of generalization in machine learning (overparameterization, out-of-domain generalization) and its connection to the implicit bias of optimization algorithms.
