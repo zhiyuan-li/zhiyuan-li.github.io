@@ -42,8 +42,8 @@ nav_order: 6
   - [Understanding the Mechanisms of Deep Learning and Generative Modeling](https://www.ideal-institute.org/2025/03/07/understanding-the-mechanisms-of-deep-learning-and-generative-modeling/), IDEAL Institute, 2025
 
 - Conference Area Chair
-  - NeurIPS 2023,2024,2025
-  - ICML 2025
+  - NeurIPS 2023,2024,2025,2026
+  - ICML 2025,2026
 
 - Conference Reviewer
   - NeurIPS(NIPS) 2016,2019,2020,2021
