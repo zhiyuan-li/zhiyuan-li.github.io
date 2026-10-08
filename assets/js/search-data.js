@@ -91,6 +91,12 @@ ninja.data = [{
           section: "News",},{id: "news-gave-a-talk-on-recursive-models-at-the-simons-institute-multi-program-ai-reunion",
           title: 'Gave a talk on recursive models at the Simons Institute Multi-Program AI Reunion....',
           description: "",
+          section: "News",},{id: "news-new-preprint-the-optimal-sample-complexity-of-learning-autoregressive-chain-of-thought-in-the-realizable-pac-setting-exact-trace-learning-achieves-the-standard-multiclass-sample-complexity-rate-of-the-local-next-token-class-independent-of-rollout-length",
+          title: 'New preprint: The Optimal Sample Complexity of Learning Autoregressive Chain-of-Thought. In the realizable...',
+          description: "",
+          section: "News",},{id: "news-i-m-currently-on-leave-from-ttic-at-meta-superintelligence-labs-msl",
+          title: 'I’m currently on leave from TTIC at Meta Superintelligence Labs (MSL).',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
